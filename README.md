@@ -1,4 +1,4 @@
-# CODED BY MARTIN SUDEVI
+# CODED BY ANTONIUS SIMANJUNTAK
 import os,sys
 P = print
 Oc = os.system
